@@ -1,0 +1,20 @@
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.21.0
+lxml==5.2.1
+
+# Database
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.30
+
+# Scheduling / Utilities
+python-dotenv==1.0.1
+schedule==1.2.1
+
+# Logging and Testing
+loguru==0.7.2
+pytest==8.2.2
+
+# Optional (if you run headless Chrome or Firefox)
+webdriver-manager==4.0.1
