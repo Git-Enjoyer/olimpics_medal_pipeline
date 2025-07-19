@@ -1,0 +1,2 @@
+
+*/5 * * * * /home/jlogan/myenv/bin/python /home/jlogan/scrape.py >> /home/jlogan/scrape_log.log 2>&1
